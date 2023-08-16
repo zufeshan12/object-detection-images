@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @zufeshan12
-- 👀 I’m interested in exploring SOTA models pertaining to computer vision and NLP
-- 🌱 I’m currently learning deep learning networks and cloud infrastructure for ML
-- 💞️ I’m looking to collaborate on building end-to-end AI solutions
-- 📫 How to reach me - zufeshanimran12@gmail.com
 
-<!---
-zufeshan12/zufeshan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="615" alt="Screenshot 2023-07-06 at 2 51 16 PM" src="https://github.com/zufeshan12/object-detection-images/assets/139018759/94a492e9-6834-45e2-96ff-af5b7671e7aa">
+<img width="609" alt="Screenshot 2023-07-06 at 2 52 17 PM" src="https://github.com/zufeshan12/object-detection-images/assets/139018759/826a3a5f-0e42-4c1f-97a9-f73d4b079da6">
